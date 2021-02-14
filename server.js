@@ -25,6 +25,13 @@ app.get("/health", (req, res) => {
     });
 });
 
+app.get("/health", (req, res) => {
+    res.send({
+        health: "UP"
+    });
+});
+
+
 app.get("/*", function (req, res) {
     res.sendFile(`${__dirname}/client/build/index.html`, function (err) {
         if (err) {
