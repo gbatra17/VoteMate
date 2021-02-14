@@ -15,6 +15,7 @@ Hi, I am Pradeep, a Blockchain Developer from Toronto. I develop decentralized a
 
 
 ## Sam
+Hi. I am Samuel. A junior software developer excited to learn and collaborate with others. You can check out my portfolio at https://sam-ok.github.io/myPortfolio/
 
 # About the MyVoteMate App
 We decided to build this app with one focus: to engage and teach the younger generation about politics. Current statistics show that the youth vote is far smaller in comparison to other generations and part of this is down to lack of engagement and knowledge. We've built this app to be educational and interesting to use.
