@@ -12,3 +12,4 @@ Hi, My name is Garima. I'm a product engineer with 4 years of experience. You ca
 # Mark
 
 # Sam
+Hi. I am Samuel. A junior software developer excited to learn and collaborate with others. You can check out my portfolio at https://sam-ok.github.io/myPortfolio/
