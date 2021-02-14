@@ -4,6 +4,7 @@ We decided to build this app with one focus: to engage and teach the younger gen
 # Meet The Team
 
 ## Mike (Project Manager)
+Mike Okarynskyy, PMP, PSM, Agile practitioner and project manager, Toronto Canada https://www.linkedin.com/in/m-okarynskyy/
 
 ## Ben (UX specialist)
 Hallo! I am Ben, a User Experience Consultant from Germany with over two years of exeprience. Glad to connect: https://www.linkedin.com/in/benjaminpw/ (Website to follow!)
