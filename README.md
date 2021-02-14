@@ -1,6 +1,9 @@
+# About the MyVoteMate App
+We decided to build this app with one focus: to engage and teach the younger generation about politics. Current statistics show that the youth vote is far smaller in comparison to other generations and part of this is down to lack of engagement and knowledge. We've built this app to be educational and interesting to use.
+
 # Meet The Team
 
-## Mark (Project Manager)
+## Mike (Project Manager)
 
 ## Ben (UX specialist)
 Hallo! I am Ben, a User Experience Consultant from Germany with over two years of exeprience. Glad to connect: https://www.linkedin.com/in/benjaminpw/ (Website to follow!)
@@ -15,12 +18,7 @@ Hi there, I'm Jade. I have been a Software Engineer for two years after finishin
 Hi, I am Pradeep, a Blockchain Developer from Toronto. I develop decentralized applications on Ethereum and HyperLedger networks. My Repo: https://github.com/pradeepp88
 
 ## Sam (Software Developer - Frontend)
-=======
 Hi. I am Samuel. A junior software developer excited to learn and collaborate with others. You can check out my portfolio at https://sam-ok.github.io/myPortfolio/
-
-
-# About the MyVoteMate App
-We decided to build this app with one focus: to engage and teach the younger generation about politics. Current statistics show that the youth vote is far smaller in comparison to other generations and part of this is down to lack of engagement and knowledge. We've built this app to be educational and interesting to use.
 
 ## Tech Stack
 The MyVoteMate app is built using the MERN stack:
