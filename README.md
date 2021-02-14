@@ -3,7 +3,7 @@ We decided to build this app with one focus: to engage and teach the younger gen
 
 # Meet The Team
 
-## Mark (Project Manager)
+## Mike (Project Manager)
 
 ## Ben (UX specialist)
 Hallo! I am Ben, a User Experience Consultant from Germany with over two years of exeprience. Glad to connect: https://www.linkedin.com/in/benjaminpw/ (Website to follow!)
